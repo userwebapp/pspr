@@ -1,0 +1,28 @@
+* {
+	font-size: 1.2rem !important;
+	font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+}
+
+label {
+	display: none !important;
+  color: gray !important;
+}
+
+  
+a {
+	font-weight: 500;
+	text-decoration: inherit;
+}
+  
+h1 {
+	font-size: 3.2em;
+	line-height: 1.1;
+}
+
+.list-title {
+	color:#084298;
+}
+
+.p-1rem {
+	padding:1rem 1rem;
+}
